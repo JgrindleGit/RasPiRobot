@@ -3,9 +3,9 @@ This is going to be a library to crate an FRC like robot, using a Raspberry Pi a
 
 
 ###ToDo
--[] Create Makefile
--[] Create MDNS Server
--[] Create Communication
--[] Create Arduino Code Generator
--[] Create Deploy tool fo IDE
--[] TEST
+- [] Create Makefile
+- [] Create MDNS Server
+- [] Create Communication
+- [] Create Arduino Code Generator
+- [] Create Deploy tool fo IDE
+- [] TEST
